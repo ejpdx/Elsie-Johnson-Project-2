@@ -1,0 +1,35 @@
+body{
+	background-color: oldlace;
+}
+.header{
+	position: absolute;
+	font-family: sans-serif;
+}
+.plant1{
+	position: absolute;
+	background-image: url(string of pearls.png);
+}
+.line{
+	position: absolute;
+}
+.quote1{
+	position: absolute;
+}
+.quote2{
+	position: absolute;
+}
+.bigBox{
+	position: absolute;
+}
+.plant2{
+	position: absolute;
+}
+.video{
+	position: absolute;
+}
+.alien{
+	position: absolute;
+}
+.plant3{
+	position: absolute;
+}
